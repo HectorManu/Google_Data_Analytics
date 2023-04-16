@@ -259,3 +259,58 @@ Además, intenta hacerte estas preguntas sobre un proyecto para encontrar el equ
 - ¿A quién se informará?
 - ¿Estoy respondiendo la pregunta que se está haciendo?
 - ¿Con qué rapidez hay que tomar una decisión?
+
+
+# Desafió semanal 1
+
+1. El análisis de datoa abarca los diversos elementos que interactúan entre sí para proporcionar, getionar, almacenar, organizar y analizar y compartir datos.
+- Falso
+
+2. En el análisis computacional de datos, un modelo es un grupo de elementos que interactúan entre sí.
+- Falso
+  - Correcto
+    - En el análisis computacional de datos, un ecosistema de datos es un grupo de elementos que interactúan entre sí.
+
+
+3. Completa el espacio en blanco: El objetivo principal de un _____ de datos es crear nuevas preguntas con datos.
+
+- científico
+  - Correcto
+    - Los científicos de datos crean nuevas preguntas con datos. La ciencia de análisis de datos implica la creación de nuevas formas de modelar y comprender lo desconocido mediante el uso de datos sin procesar**.**
+
+
+4. Selecciona la mejor descripción del instinto
+- Una comprensión instuitiva de algo con poca o ninguna explicación 
+
+5. Billings Tapholstery ha definido un problema que debe resolver: encontrar una forma más respetuosa con el medio ambiente de producir sus muebles. Un analista de datos recopila datos relevantes, los analiza y los utiliza para sacar conclusiones. A continuación, el analista comparte su análisis con expertos en la materia del equipo de fabricación, que validan los hallazgos. Por último, se pone en marcha un plan. En este escenario, ¿se describe qué proceso?
+
+- Toma de decisinoes basada en datos
+  - Correcto
+    - Esta empresa ha colocado los datos en el centro de su estrategia empresarial para lograr una toma de decisiones basada en datos.
+
+
+
+6. Qué hacen los expertos en la materia para apoyar la toma de decisiones basada en datos? Selecciona todas las opciones correctas.
+- Validar las elecciones tomadas ocmo resultado de la información de datos.
+  - Correcto
+    - Los experots en la materia pueden ofrecer informaicón sobre el problema empresarial, identificar incoherencia en el análisis y validar las decisiones que se toman.
+- Ofrecer información sobre el problema empresarial+
+  - Correcto
+    - Los expertos en la materia pueden ofrecer información sobre el problema empresairal, identificar incoherencias en el análisis y validar las decisioens que se toman.
+
+7. Acabas de terminar de analizar los datos de un proyecto de marketing. Antes de avanzar, comparte los resultados con los miembros del equipo de marketing para ver si tienen información adicional sobre el problema empresarial. ¿Qué práctica apoya esto?
+- Toma de decisiones basada en datos
+  - Correcto
+    - Incluir información de personas que están familiarizadas con el problema empresarial es un ejemplo de toma de decisiones basada en datos. La toma de decisiones basada en datos se define como el uso de hechos para guiar la estrategia empresarial
+
+8. Recientemente te has suscrito a una revista de análisis computacional de datos en línea. Te ha gustado mucho un artículo y quieres compartirlo en el foro de debate. ¿Cuál de las siguientes opciones sería apropiada en una publicación? Selecciona todas las opciones correctas.
+
+- Dar c´redito al autor original
+- Incluir tos propias ideas sobre el artículo
+- Comprobar si hay errores tipográficos o gramaticales en tu publicación 
+  - Correcto
+    - Compartir artículos informativos es un ejemplo de uso adecuado del foro siempre que se le dé crédito al autor original. Además, las publicaciones deben ser relevantes para el análisis computacional de datos, y debería verificarse si tiene errores tipográficos y gramaticales.
+
+9. ¿Qué describe la recopilación, transformación y organización de los datos para sacar conclusiones, hacer predicciones e impulsar una toma de decisiones fundamentada?
+
+- Análisis de datos
