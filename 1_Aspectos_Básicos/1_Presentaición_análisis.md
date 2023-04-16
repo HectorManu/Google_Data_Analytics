@@ -206,3 +206,56 @@
 
 # Caso práctico: Nuevas perspectivas de datos 
 Los seis pasos del proceso de análisis de datos que has estado aprendiendo en este programa son: preguntar, preparar, procesar, analizar, compartir y actuar. 
+
+**En el análisis computacional de datos**, ¿cuál es el término para lso elementos que interactúan entre sí a fin de producir, gestionar, almacenar, organizar, analizar y compartir datos? 
+- Ecosistemas de datos
+  - Correcto
+    - Los elementos que interactúan entre sí para producir, gestionar, almacenar, organizar, analizar y compartir datos son los ecosistemas de datos. Estos elementos incluyen herramientas de hardware y software, así como a las personas que las utilizan. 
+
+
+# Diferencia entre Data Scienctist Data Analysts
+
+## Definición de la ciencia de datos
+***La ciencia de datos se define como crear nuevas formas de modelar y entender lo desconocido mediante el uso de datos sin procesar.***
+
+*Los científicos de datos crean nuevas preguntas con los datos, mientras que elos analistas encuentran respuestas a las preguntas existentes y crean inforamción a partir de las fuentes de datos.*
+
+**Nota**: **Diferencia entre análisis de datos y análisis computacional de datos**
+Análisis de datos | Análisis computacional de datos
+---|---
+El anális sde datos es la recopilación, tranformación y organización de los datos para sacar conclusiones, hacer predicciones e impoular unat oma de decisiones informada. | El análisis computacional de datos, en los términos más sencillos es la ciencia de lso datos. es un concepto muy amplio que abarca todo, dessde el trabajo de gestion y el uso de datos hasta las herramientas ylos métodos que lso trabajadores de datos usan todos lod días. 
+
+
+
+## DAta Scientists 
+**Es el que define como crear nuevas formas de modelar y entender lo desconocido mediante el uso de daos sin procesar.**
+## Data analysts 
+**Ya has aprendido que el análisis de dtoa es la recopilación, transformación y organización de los datos para sacar conclusiones hacer predicciones e impulsar una toma de decisioens informada. Es un concepto muy amplio que abarca todo, desde el trabajo de gestión y el uso de los datos hasta las herrmaientas y los métodos que los trabjadores de datos usan todos lod días**
+
+
+Identifica los ejemplos del mundo real de cómouna empresa podría tomar decisiones basdaas en datos. selecciona todas las opcioens correctas.
+
+- Elegir soluciones de comercio electrónico basadas en las preferencias de compra de los clientes.
+  - Correcto 
+    - Entre algunos ejemplos del mundo real en cuanto a la toma de decisiones basadas en datos se incluyen sugerir música nueva a un cliente, programar a un cierto número de empleados de restaurantes para que trabajen y elegir soluciones de comercio electrónico basadas en hechos establecidos. La toma de decisiones basada en datos se define como el uso de hechos para guiar la estrategia empresarial.
+- Programación de un cierto número de empleados de restaurantes para que trabajen en función de la cantidad promedio de almuerzos por día
+  - Correcto
+    - Entre algunos ejemplos del mundo real en cuanto a la toma de decisiones basadas en datos se incluyen sugerir música nueva a un cliente, programar a un cierto número de empleados de restaurantes para que trabajen y elegir soluciones de comercio electrónico basadas en hechos establecidos. La toma de decisiones basada en datos se define como el uso de hechos para guiar la estrategia empresarial. 
+- Sugerir música nueva a un cliente en función de su historial de escucha
+  - Correcto
+    -  Entre algunos ejemplos del mundo real en cuanto a la toma de decisiones basadas en datos se incluyen sugerir música nueva a un cliente, programar a un cierto número de empleados de restaurantes para que trabajen y elegir soluciones de comercio electrónico basadas en hechos establecidos. La toma de decisiones basada en datos se define como el uso de hechos para guiar la estrategia empresarial. .
+
+ # Data driven
+ Este proceso se define como el uso de datos para guiar la eestrategia empresarial. 
+
+ 1. El primer paso de este proceso es descubrir la necesidad del negocio. 
+
+# Datos + conocimiento empresarial = misterio resuelto
+
+Combinar datos con conocimiento empresarial, además de un toque de instinto, será una parte habitual de tu proceso como analista de datos junior. La clave está en averiguar la combinación exacta de cada proyecto en particular. Muchas veces, dependerá de los objetivos de tu análisis. Por eso los analistas a menudo preguntan: «¿Cómo defino el éxito de este proyecto?»
+
+Además, intenta hacerte estas preguntas sobre un proyecto para encontrar el equilibrio perfecto:
+- ¿Qué tipo de resultados se necesitan?
+- ¿A quién se informará?
+- ¿Estoy respondiendo la pregunta que se está haciendo?
+- ¿Con qué rapidez hay que tomar una decisión?
