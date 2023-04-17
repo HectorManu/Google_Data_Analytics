@@ -314,3 +314,43 @@ Además, intenta hacerte estas preguntas sobre un proyecto para encontrar el equ
 9. ¿Qué describe la recopilación, transformación y organización de los datos para sacar conclusiones, hacer predicciones e impulsar una toma de decisiones fundamentada?
 
 - Análisis de datos
+
+
+10. El análisis de datos abarca los diversos elementos que interactúan entre sí para proporcionar, gestionar, almacenar, organizar, analizar y compartir datos.
+
+- Falso
+  - Correcto
+    - El análisis computacional de datos es la recopilación, transformación y organización de los datos para sacar conclusiones, hacer predicciones e impulsar una toma de decisiones fundamentada.
+
+11. Completa el espacio en blanco: Los ecosistemas de datos están formados por elementos que _____ entre sí. Esto les permite producir, administrar, almacenar, organizar, analizar y compartir datos.
+
+- Interactúan
+  - Correcto
+    - Los ecosistemas de datos se componen de diversos elementos que interactúan entre sí para producir, gestionar, almacenar, organizar, analizar y compartir datos.
+
+12. Completa el espacio en blanco: La/El _____ de análisis de datos implica la creación de nuevas formas de modelar y comprender lo desconocido mediante el uso de datos sin procesar**.**
+
+- ingenería
+
+13. ¿Qué tácticas puede utilizar un analista de datos para combinar eficazmente el instinto con los hechos? Selecciona todas las opciones correctas.
+
+- Usar su conocimiento acerca de cómo funciona su empresa para comprender mejor las necesidades empresariales.
+  - Correcto 
+    - En el centro de la toma de decisiones basada en datos se encuentran los datos, por lo que los analistas son más eficaces cuando garantizan que los hechos impulsan la estrategia.
+
+- **Nota no sé si es correcta aún Aplicar** sus experiencias pasadas únicas a su trabajo actual, y tener en cuenta la historia que cuentan los datos.
+
+14. Pregunta 6
+Para aprovechar al máximo la toma de decisiones basada en datos, es importante incluir información de personas que estén familiarizadas con el problema empresarial. Identifica cómo se llaman esas personas.
+
+- Expertos en la materia
+  - Correcto
+    - Los expertos en la materia están mu familiaraizados con el problema empresarial y pueden analizar los resultados del análisis ed atos para validar las decisioens que se están tomando.
+
+
+15. Lees un artículo interesante sobre análisis computacional de datos en una revista y quieres compartir algunas ideas del artículo en el foro de debate. En tu publicación, incluyes al autor y un enlace al artículo original. Sería un uso inapropiado del foro.
+
+- Falso
+  - Correcto 
+    - Compartir artículos informativos es un ejemplo de uso aduecuado del foro siempre que se le dé crédito al autor original. Además, las publicacioness debne ser relevantes para el ana´lisis computacional de datos, y deberí verificarse si tiene erroes tipográficos y gramaticales.
+
