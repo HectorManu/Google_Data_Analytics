@@ -115,4 +115,33 @@ Esto forma parte de la fase analizar. Esta fase implica el uso de datos para tom
 # Las seis fases del análisis de datos
 
 es un proceso de análisis de datos 
-1.preguntar: 
+1. preguntar:
+   1. En esta fase, hacemos dos cosas, Definimos el problema que se pretende resolver y nos aseguremos de que entendemos plenamente las expectativas de los interesados. **Definir un problema significa que observas el esetado actual e identificas cómo difiere del estado ideal**
+2. Preparación del proceso de análisis de datos
+   1. los analistas de datos recopilan y almacenan datos que usarán para el próximo proceso de análisis. 
+   2. Cualquier decisión que tomes a partir de tu analisis siempre debe basarse en hechos y ser justa e imparcial.
+3. Proceso
+   1. los analistas de datos encuentran y eliminan cualquier error e inexactitud que pudan interferir con los resultados, implica la limpieza y convsersión de formato más util, combinar doa o más cojutnos e datos para lograr que la información sea más completa y eliminar los valors atípicos, que son puntos de datos que podrían sesgar la información.
+4. Análisis
+   1. uso de herramientas para transformar y organizar esa información a fin de poder extraer conslusiones útiles, hacer predicciones e impulsar una toma de decisiones fundamental
+5. Compartir
+   1. la visualización es el mejor amigo del analista de datos la visualización es esencial para conseguir que otras personas comprendan qué te dicen los datos
+6. Actuar
+   1. poner a trabajar para resolver elproblema incial del negocio y actuar según lo que tú aprendiste durante todo el curso.
+
+
+1. Preguntar: Haz preguntas efectivas, define el problema, aplica el pensamiento estructural, comunícate con otras personas 
+
+2. Preparar: Comprende cómo se generan y recopilan los datos; identifica y usa diferentes formatos, tipos y estructuras de datos; asegúrate de que los datos sean imparciales y creíbles, y organiza y protege los datos 
+
+3. Procesar: Crea y transforma datos, mantén la integridad de los datos, prueba los datos, limpia los datos y verifica e informa sobre los resultados de la limpieza 
+
+4. Analizar: Usa herramientas para formatear y transformar datos, ordena y filtra los datos, identifica patrones y saca conclusiones, haz predicciones y recomendaciones, y toma decisiones basadas en los datos
+
+5. Compartir: Comprende la visualización, crea imágenes efectivas, da vida a los datos, usa los datos para contar historias y comunícate para ayudar a otras personas a comprender los resultados 
+
+6. Actuar: Aplica tus ideas, resuelve problemas, toma decisiones y crea algo nuevo
+
+
+# Molly: ejemplo del proceso de datos
+
