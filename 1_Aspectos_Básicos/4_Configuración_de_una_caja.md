@@ -1,1 +1,2 @@
-4_Configuración_de_una_caja.md
+# Los pormenores de las herramientas de datos centrales
+
