@@ -359,5 +359,3 @@ Los analistas de datos usan consultas para solicitar, recuperar y actualizar inf
   - Correcto 
     - Una fórmula es un conjunto de instrucciones que usan para relaizar un cálculo específico; una función es un comando preestablecido que realiza un proceso especificado de forma automática.
 
-
-
