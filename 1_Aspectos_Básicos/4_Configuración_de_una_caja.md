@@ -116,3 +116,4 @@ Sin embargo, si estás buscando a todos los clientes que tienen un apellido que 
 **WHERE field1 LIKE 'Ch%'**
 
 En conclusión, la cláusula LIKE es muy poderosa porque te permite decirle a la base de datos que busque un patrón determinado. El signo de porcentaje (%) se usa como comodín para que coincida con uno o más caracteres. En el ejemplo anterior, se devolverían tanto Chávez como Chen. Ten en cuenta que en algunas bases de datos se usa un asterisco (*) como comodín en lugar de un signo de porcentaje (%).
+
