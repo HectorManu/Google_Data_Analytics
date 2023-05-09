@@ -117,3 +117,14 @@ Sin embargo, si estás buscando a todos los clientes que tienen un apellido que 
 
 En conclusión, la cláusula LIKE es muy poderosa porque te permite decirle a la base de datos que busque un patrón determinado. El signo de porcentaje (%) se usa como comodín para que coincida con uno o más caracteres. En el ejemplo anterior, se devolverían tanto Chávez como Chen. Ten en cuenta que en algunas bases de datos se usa un asterisco (*) como comodín en lugar de un signo de porcentaje (%).
 
+
+### Pon a prueba ts conocimeentos sobre SQL 
+
+- ¿Cuáles son algunas de las razones por las cuales un analista de datos podría usar visualizaciones de datos ? 
+  - Reforzar el análisis de datos
+    - Correcto:
+      - Los analistas de datos usan visulizaciones de datos para explicar datos complejos rápidamente, deforzar el análisis de datos y crear diagramas graficos.
+  - Explicar datos complejos rápidamente
+  - Crear gráficos interesantes
+
+
