@@ -128,3 +128,75 @@ En conclusión, la cláusula LIKE es muy poderosa porque te permite decirle a la
   - Crear gráficos interesantes
 
 
+# Pon a prueba tus conocmientos sobre la visualizaión de datos
+
+1. Pregunta 1
+Completa el espacio en blanco: Una visualización de datos es la representación _____ de la información.
+- Gráfica 
+  - Correcto 
+    - Una visualización de daots es la repsretación gráfica de la información 
+
+
+2. ¿Cuándo un gráfico circular sería una visualización efectiva?
+
+-  Al mostrar una lase desgoosada por edad
+   -  Un gráfico circular muestra cómo un todo se divide en partes y es una visualización efectiva para una clase desglosada por edad.
+
+
+3. Pregunta 3
+¿Cuáles son los beneficios clave de las visualizaciones de datos? Selecciona todas las opciones correctas.
+
+- Pueden ilustrar las relaciones entre los puntos de dato s
+- Pueden demostar claramente patrones y tendencias 
+- Pueden ayudar a los interesasados a comprender los datos complejs y más rápidamente 
+
+--  Correcto 
+  Las visualizaciones de datos pueden demostrar claramente patrones y tendencias, ayudar a los interesados a comprender los datos complejos más rápidamente e ilustrar las relaciones entre los puntos de datos.
+
+
+
+
+
+# Desafío semana 4
+
+1. Pregunta 1
+En la fila 1 de la siguiente hoja de cálculo, ¿cómo se denominan las palabras rango, nombre, población y condado? 
+
+- Caracterísitcas incorrecto
+-
+
+2. En la siguiente hoja de cálculo, la observación de Greensboro describe todos los datos de la fila 4.
+
+- Verdadero 
+  - Correcto
+    - La observación de Greenboro describee todos
+
+3. Completa el espacio en blanco: En la siguiente hoja de cálculo, la función _____ se utilizó para ordenar alfabéticamente los nombres de las ciudades de la columna B.
+
+- Rango de clasificación
+
+4. Un analista de datos escribe =POPULATION(C2:C11) para encontrar la población promedio de las ciudades en esta hoja de cálculo. Sin embargo, se dan cuenta de que usaron la fórmula equivocada. ¿Qué sintaxis corregirá esta función?
+
+- La sintaxis correcta para la función AVERAGE es la siguiente: =AVERAGE(C2:C11).Cuando usas la función AVERAGE, obtienes el promedio de los valores incluidos en un rango seleccionado. C2:C11 es el rango especificado.
+
+5. Estás trabajando con una tabla (base de datos) denominada genre que contiene datos sobre géneros musicales. Quieres revisar todas las columnas de la tabla.
+
+Escribes la consulta en SQL a continuación. Agrega una cláusula FROM que recupere los datos de la tabla genre.
+
+- La cláusula FROM genre recuperará los datos de la tabla genre. La consulta completa es SELECT * FROM genre. La cláusula FROM especifica qué tabla de la base de datos hay que consultar. El género del álbum con número de ID 3 es Metal.
+
+6. Pregunta 6
+Estás trabajando con una tabla de una base de datos que contiene datos de facturas. La columna customer_id enumera el número de ID de cada cliente. Te interesan los datos de facturación del cliente con el número de ID 54.
+
+Escribes la consulta en SQL a continuación. Agrega una cláusula WHERE que te muestre solo los datos sobre el álbum con número de ID 54.
+
+- La cláusula WHERE customer_id = 54 solo te mostrará los datos del cliente con el número de ID 54. La consulta completa es SELECT * FROM invoice WHERE customer_id = 54. La cláusula WHERE filtra los resultados que cumplen con ciertas condiciones. La cláusula WHERE incluye el nombre de la columna, un signo de igual y el valor o los valores a incluir en la columna. La dirección de facturación del cliente con el número de ID 54 es 110 Raeburn Pl. 
+
+7. Un analista de datos crea la siguiente visualización para demostrar claramente cuánto más poblada es Charlotte que la siguiente ciudad más grande de Carolina del Norte, Raleigh. ¿Qué tipo de gráfico es?
+
+- El gráfico es un gráfico de columnas. Un gráfico de columnas es eficaz para demostrar las diferencias entre varios elementos de un rango de valores específico. 
+
+8. Un analista de datos quiere demostrar cómo aumentó la población de Charlotte con el tiempo. Crean el gráfico que aparece a continuación. ¿Cómo se llama este tipo de gráfico?
+
+- Correcto
+Se trata de un gráfico de líneas. Los gráficos de líneas son eficaces para demostrar tendencias y patrones, por ejemplo, cómo cambia la población a lo largo del tiempo.
