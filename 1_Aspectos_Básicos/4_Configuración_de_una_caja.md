@@ -128,3 +128,4 @@ En conclusión, la cláusula LIKE es muy poderosa porque te permite decirle a la
   - Crear gráficos interesantes
 
 
+
