@@ -273,5 +273,46 @@ Lo mismo ocurre con el análisis de datos. No importa cuánta información tenga
 ## Las preguntas altamente efectivas son preguntas SMART:
 ### SMART
 **Específica**|**Medible**|**Orientada a la acción**|**Relevante**|**Con plazos determinados**
+--- | --- | --- | --- | ---
+¿Es específica la pregutna? Tiene contexto? ¿Descubrirá mucha de la información que necesitas?| ¿Te dará la pregjtna respuestas que puedas medir? | ¿Las respuesetas proporcionarán información que te ayude a diseñar algún tipo de plan de acción? | ¿La pregutna ees sobre el problema particular que tratas de resolver? | ¿Son las purespuestas relevantees para el momento específico que se estudia?
+--- | --- | --- | --- | ---
+
+### Ejemplos de preguntas SMART
+
+Aquí hay un ejemplo que desglosa el proceso de pensamiento de convertir una pregnta problemática en uno o más preguntas SMART utilizando el método SMART: **¿Qué características busca la gente al comprar un automóvil nuevo?**
+
+- **Específica:** ¿la pregunta se centra en una característica particular del automóvil?
+- **Medible:** ¿la pregunta incluye un sistema de clasificación de caracteríticas?
+- **Orientada a la acción:** ¿la pregunta influye en la creación de paquetes de características nuevos o diferentes?
+- **Relevante:** ¿la pregunta identifica qué caracteríticas ocnstituyes un punto de inflexión en una posible compra de un automóvil?
+- **Con plazos determinados:** ¿la pregutna valida los datos sobre las caracteríticas más populares de los últimos tres años?
+
+Las pregutnas deben ser **abiertas**. Esta es la mejor manera de obtener respuestas que te ayudrán a calificar o descalificar con precisión las posibles soluciones al problema específico. Entonces, según el proceso de pensamiento, las siguietnes pregutnas podrián ser SMART:
+- En una escala del 1 al 10 (siendo 10 lo más imporntate), ¿qué imporntancia tiene que su automóvil cuente con tracción en las cuatro ruedas?
+- ¿Cuáles son las cinco caracteríticas principales que le gustaría ver en un paquete de automóvil?
+- ¿Qué caracteríticas, si se incluyen con la tracción en las cuatro ruedas, lo acercarían más a comprar el automóvil?
+- Cuánto más pagaría por un automóvil con tracción en las cuatro ruedas?
+- ¿Se ha vuelto más o menos popular la tracción enlas cuatro ruedas en los últimos tres años?
+
+### Cossas que debes evitar al hacer preguntas
+**preguntas sugestivas:** preguntas que solo tienen una respuesta en particular
+
+* Ejemplo: **este producto es demasiado caro, ¿no?**
+
+Esta es una pregunta sugestiva porque sugiere una respuesta como parte de la pregutna. Una pregunta mejor podría ser: "¿cuál es su opinión sobre este producto?" Hay toneladas de respuestasa a esa pregunta, y podrían incluir información sobre la usabilidad, las características, los accesorios, el color, la confiabilidad y la popularidad, además del precio. Si el problema se centra realmente en los precios puede hacer una pregutna commo "¿qué precio (o rango de precios) le haria considerar comprar este producto?" Esta pregunta propocionaría muchas respuestas medibles diferentes.
+
+**Preguntas cerradas:** preguntas que piden una respuesta breve o de una sola palabra.
+
+* Ejemplo: **¿quedó satisfecho con la preuba gratis del sofware?**
+
+Esta es una pregunta cerrada por qeu no anima a las personas a ampliar su respuesta. Es muy fácil para ellos dar respuestas de una palabra que no son muy informativas. Una pregunta mejor podria ser: "¿qué aprendió sobre la experiencia del cliente cuando probó el software gratos?" Esto anima a las personas a proporcionar más detalles además de "Estuvo bien".
+
+**Preguntas imprecisas:** preguntas que no son específicas o no ofrecen contexto
+
+* Ejemplo: **¿la herramienta funciona para usted?**
+
+Esta pregutna es demasiado imprecisa porque no hay contexto. ¿Se trata de comprara la herramienta nueva con la que reemplaza? Simplemente, no lo sabes. Una mejor pregutna podría ser: "en lo que respecta al ingreso de datos, ¿la herramienta neuva es más rápida, más lenta o casi lo mismo que la antigua? Si es más rpapida, ¿cuándo tiempo se ahorra? Si es más lenta, ¿cuánto tiempo se pierde?" Estas preguntas dan contexto (ingreso de datos) y ayudan a enmarcar respuestas que son medibles (tiempo).
+
+
 
 
