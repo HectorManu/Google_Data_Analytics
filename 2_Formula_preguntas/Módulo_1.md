@@ -316,3 +316,291 @@ Esta pregutna es demasiado imprecisa porque no hay contexto. ¿Se trata de compr
 
 
 
+
+# Autoreflreción: escenarios de analistas de datos
+
+Ahora que conoces el framework SMART para hacer preguntas, puedes hacer una pausa para aplicar lo que estás aprendiendo. En esta autorreflexión, considerarás las preguntas que harías en un escenario específico.
+
+Esta autorreflexión te ayudará a desarrollar conocimientos sobre tu propio aprendizaje y te preparará para aplicar tu conocimiento del framework de preguntas SMART a tus propias investigaciones de datos. A medida que respondas las preguntas, y plantees tus propias preguntas, tendrás en cuenta los conceptos, las prácticas y los principios que te ayudarán a refinar tu comprensión y reforzar tu aprendizaje. Ya hiciste el trabajo duro, así que asegúrate de sacarle el máximo provecho: ¡Esta reflexión te ayudará a fijar tus conocimientos!
+
+El escenario
+
+
+Llevas tres semanas en tu nuevo trabajo como analista de datos júnior. La empresa para la que trabajas acaba de recopilar datos sobre sus ventas del fin de semana. Tu gerente te pide que realices una "inmersión profunda" en estos datos. Para que este proyecto comience, debes hacer algunas preguntas y obtener información.
+
+Preguntas SMART
+
+
+Como recordatorio, las preguntas SMART tienen las siguientes características:
+
+Específicas (Specific): las preguntas son simples y significativas, y se centran en un solo tema o en algunas ideas estrechamente relacionadas.
+
+Medibles (Measurable): las preguntas se pueden cuantificar y evaluar.
+
+Orientadas a la acción (Action-oriented): las preguntas fomentan el cambio.
+
+Relevantes (Relevant): las preguntas son importantes para el problema que tratas de resolver.
+
+Temporales (Time-bound): Las preguntas especifican el plazo que se estudia en el proyecto.
+
+A continuación, utilizarás el framework SMART para hacer preguntas efectivas sobre el escenario anterior. Luego, reflexionarás sobre los temas que tus preguntas SMART deben abordar.
+
+Haz el tipo de preguntas correcto
+
+
+Puedes aplicar el framework SMART a todo tipo de preguntas. El tipo de preguntas que hagas puede ayudarte a explorar con mayor profundidad la situación con tus datos. Considera las formas en que las preguntas te ayudan a examinar los objetivos, la audiencia, el tiempo, la seguridad y los recursos.
+
+Algunos temas comunes para crear las preguntas incluyen los siguientes:
+
+Objetivos: ¿Cuáles son los objetivos de la inmersión profunda? ¿Qué preguntas, si las hay, se espera que sean respondidas con esta inmersión profunda?
+
+Audiencia: ¿Quiénes son los interesados? ¿Quién está interesado o preocupado por los resultados de esta inmersión profunda? ¿Quién es el público de la presentación?
+
+Tiempo: ¿Cuál es el plazo para la finalización? ¿Para qué fecha debe hacerse esto?
+
+Recursos: ¿Qué recursos hay disponibles para lograr los objetivos de la inmersión profunda?
+
+Seguridad: ¿Quién debería tener acceso a la información?
+
+Piensa en cómo puedes hacer preguntas SMART sobre cada uno de estos temas.
+
+Reflexión
+
+
+Considera el escenario anterior:
+
+Sobre la base del framework SMART, ¿qué preguntas son más importantes?
+
+¿Cómo aclararán estas preguntas los requisitos y objetivos del proyecto?
+
+¿Cómo te beneficia hacer preguntas detalladas y específicas al planificar un proyecto? ¿Pueden las preguntas imprecisas o poco claras dañar un proyecto?
+
+Ahora, escribe 2 o 3 oraciones (de 40 a 60 palabras) en respuesta a cada una de estas preguntas. Escribe tu respuesta en el cuadro de texto que aparece a continuación.
+
+
+## Respuesta
+
+Correcto
+Default Feedback: ¡Gran trabajo al reforzar tu aprendizaje con una autorreflexión seria! Una buena reflexión sobre este tema describiría cómo aplicaste las preguntas SMART al escenario.
+
+Aquí hay algunas preguntas que quizás te convenga hacer:
+
+¿Cuándo debe estar terminado el proyecto?
+
+¿Hay algún desafío específico a tener en cuenta?
+
+¿Quiénes son los principales interesados en este proyecto y qué esperan que haga este proyecto por ellos?
+
+¿A quién le presento los resultados?
+
+Estas preguntas pueden ayudarte a concentrarte en técnicas y análisis que produzcan resultados útiles para los interesados. También aclaran la fecha en que debe estar listo el resultado entregable, que es importante conocer para que puedas administrar tu tiempo de manera efectiva. Cuando comiences a trabajar en un proyecto, debes hacer preguntas que se alineen con el plan y los objetivos y que te ayuden a explorar los datos. Cuantas más preguntas hagas, más aprenderás sobre los datos y más poderosos serán tus conocimientos.
+
+Hacer preguntas minuciosas y específicas significa aclarar los detalles hasta llegar a los requisitos concretos. Con requisitos y objetivos claros, es mucho más fácil planificar y llevar a cabo un proyecto de análisis de datos exitoso y evitar problemas que consuman mucho tiempo en el futuro.
+
+# Evan: los datos abren puertas
+
+# Autorrefleción: haz tus propias preguntas **SMART**
+
+Ahora que aprendiste más sobre las preguntas SMART, puedes hacer una pausa por un momento y hacer las tuyas. En esta autorreflexión, considerarás tus pensamientos sobre el framework de preguntas SMART.
+
+Esta autorreflexión te ayudará a desarrollar conocimientos sobre tu propio aprendizaje y te preparará para aplicar el framework SMART a tus propias investigaciones de datos. A medida que respondas las preguntas, y plantees tus propias preguntas, tendrás en cuenta los conceptos, las prácticas y los principios que te ayudarán a refinar tu comprensión y reforzar tu aprendizaje. Ya hiciste el trabajo duro, así que asegúrate de sacarle el máximo provecho: ¡Esta reflexión te ayudará a fijar tus conocimientos!
+
+Haz preguntas del mundo real
+
+
+En esta actividad, tendrás una conversación sobre datos con alguien que conoces. Puede ser en persona, por teléfono o en un chat de video.
+
+Elige a alguien de tu vida que utilice datos para tomar mejores decisiones. Puede ser un miembro de tu familia que dirija una pequeña empresa, un amigo que lidere un comité de la Asociación de padres y maestros o un vecino que enseñe piano. Todas estas personas recurren a los datos de alguna manera para ser más eficaces en sus funciones.
+
+Diles que te estás capacitando para ser analista de datos y que te gustaría tener una charla sobre datos para practicar tus habilidades haciendo preguntas. Al final de esta conversación, obtendrás información útil que los beneficiará a ambos.
+
+Planifica la conversación
+
+
+Primero, decide con quién hablarás y cómo esta persona podría usar los datos. Tu objetivo es planificar una conversación exitosa. Piensa cuánto tiempo necesitas y cómo lo utilizarás. Para este paso, revisa los siguientes consejos:
+
+Prioriza tus preguntas: prepárate para hacer primero las preguntas más importantes e interesantes.
+
+Haz que tu tiempo cuente: mantente en el tema durante la conversación.
+
+Aclara tu comprensión: para evitar confusiones, reserva algo de tiempo para resumir las respuestas y asegurarte de que las has entendido correctamente. Esto te ayudará en gran medida a evitar errores. Por ejemplo, en una conversación con un profesor, puedes verificar tu comprensión con una declaración como: "Solo para verificar que entiendo correctamente lo que está diciendo, actualmente usa los puntajes de las pruebas de las siguientes maneras..."
+
+En función del campo en el que se encuentre, es probable que la persona con la que charles no se sienta cómoda compartiendo datos detallados contigo. Está bien. Asegúrate de respetar lo que esté dispuesto a compartir durante la conversación.
+
+Formula preguntas
+
+
+Ahora, crea preguntas que te ayuden a comprender sus objetivos empresariales, el tipo de datos con los que interactúan y las limitaciones de los datos.
+
+Utiliza el framework de preguntas SMART para asegurarte de que cada pregunta que hagas tenga sentido en función de su campo de actividad. Cada pregunta debe cumplir con la mayor cantidad posible de criterios SMART. 
+
+Como recordatorio, las preguntas SMART tienen las siguientes características:
+
+Específicas (Specific): las preguntas son simples y significativas, y se centran en un solo tema o en algunas ideas estrechamente relacionadas.
+
+Medibles (Measurable): las preguntas se pueden cuantificar y evaluar.
+
+Orientadas a la acción (Action-oriented): las preguntas fomentan el cambio.
+
+Relevantes (Relevant): las preguntas son importantes para el problema que tratas de resolver.
+
+Temporales (Time-bound): las preguntas especifican el plazo estudiado en el proyecto.
+
+Por ejemplo, si conversas con alguien que trabaja en el comercio minorista, puedes comenzar con preguntas como las siguientes:
+
+   Específicas (Specific): ¿Utiliza actualmente datos para impulsar decisiones en su negocio? Si es así, ¿qué tipo de datos recopila y cómo los usa?
+
+   Medibles (Measurable): ¿Sabe qué porcentaje de las ventas proviene de los productos más vendidos?
+
+   Orientadas a la acción (Action-oriented): ¿Hay decisiones empresariales o cambios que realizaría si tuviera la información correcta? Por ejemplo, si tuviera información sobre cómo cambian las ventas de paraguas según el clima, ¿cómo la usaría?
+
+   Relevantes (Relevant): ¿Con qué frecuencia revisa los datos de su negocio?
+
+   Temporales (Time-bound): ¿Puede describir cómo los datos lo ayudaron a tomar buenas decisiones para su tienda el año pasado?
+
+Si conversas con un profesor, puedes hacer diferentes preguntas, como las siguientes:
+
+Específicas (Specific): ¿Qué tipo de datos usa para planificar las lecciones?
+
+Medibles (Measurable): ¿Qué tan bien se correlacionan los puntajes de las pruebas comparativas nacionales con las calificaciones de los estudiantes?
+
+Orientadas a la acción (Action-oriented): ¿Comparte los datos con otros profesores para mejorar las lecciones?
+
+Relevantes (Relevant): ¿Ha compartido datos de calificaciones con toda una clase? Si es así, ¿los estudiantes parecen estar más o menos motivados, o casi lo mismo?
+
+Temporales (Time-bound): En los últimos cinco años, ¿cuántas veces revisó datos de años académicos anteriores?
+
+Si conversas con el propietario de una pequeña heladería, puedes preguntar lo siguiente:
+
+Específicas (Specific): ¿Qué datos utiliza para ayudar con las compras y el inventario?
+
+Medibles (Measurable): ¿Puede ordenar (clasificar) estos factores de mayor a menor influencia en las ventas: precio, sabor y época del año (temporada)?
+
+Orientadas a la acción (Action-oriented): ¿Existe un factor en particular sobre el que necesite más datos para aumentar potencialmente las ventas?
+
+Relevantes (Relevant): ¿Cómo se publicita o se comunica con los clientes?
+
+Temporales (Time-bound): ¿Cómo se ve el crecimiento de las ventas año a año durante los últimos tres años?
+
+Toma buenas notas
+
+## respuesta
+
+Correcto
+¡Gran trabajo al reforzar tu aprendizaje con una autorreflexión seria! Una buena reflexión describiría cómo creaste preguntas SMART relevantes y qué conocimientos te ayudaron a obtener.
+
+Crear preguntas SMART para conversaciones basadas en datos es una de las herramientas más importantes del arsenal de un analista de datos. A medida que practiques, te sentirás más cómodo al interactuar con otros sobre los datos y hacer preguntas significativas durante esas interacciones. En el futuro, también puedes practicar haciéndote preguntas SMART para ayudarte a administrar y medir tus propios objetivos.
+
+
+# Pon a preuba tus conocmientos sobre la elaboración de preguntas efectivas 
+
+1. Un analista de datos usa la metodolgía SMART para formular una pregunta que fomente el cambio. ¿Cómo puede describirse este tipo de pregunta?
+- Orientada a la acción
+
+- Correcto
+En la metodología SMART, las preguntas que fomentan el cambio están orientadas a la acción.
+
+1. ¿Una pregunta SMART con límite de tiempo específica cuál de los siguientes parámetros?
+
+- Una pregunta SMART con límite de tiempo especifica la era, la fase o el período de análisis.
+
+
+1. Un analista de datos que trabaja para un minorista de tamaño mediano escribe preguntas para una encuensta de expereiencia del cliente. Una de las preguntas es: ¿Prefieres en línea o en la tienda? Lued, le reescribes para que diga: ¿Prefieres comrpara en el mercado en línea o comprar en la tienda local?. Desccribe por qué eseta es una pregunta mas efectiva.
+
+- La primera pregunta es imprecisa, mientras que la segunda pregunta incluye contexto importante.
+
+- Las preguntas imprecisas no proporcionan contexto. La segunda pregunta aclara que el analista de datos quiere saber exactamente cómo y dónde prefieren comprar los clientes.
+
+
+1. Un analista de datos de una empresa de red social está creadno preguntas para un grupo de enfoque. Usa abreviaturas comunes com oxq para por qué o msj para mensaje. Esto es justo porque los participantes usan mucho las redes sociales y es probable que tengan conocmientos específicos. 
+
+- Falso
+
+Correcto
+La equidad significa hacer preguntas que tengan sentido para todos. Incluso si un analista de datos sospecha que las personas entenderán las abreviaturas o la jerga, es importante escribir preguntas con una redacción simple. 
+
+
+# Desafío semanal 1 
+
+1. El pensamiento estructuado implica reconocer el problema o la situación actuales que enfrentas e identificar tus opciones.
+
+- Verdader
+
+2. Al crear visualizaciones de datos para una presentación de diapositivas, un analista de datos considera "¿Qué ayudaría a un interesado a comprender mejor estos datos?" El analista se encuentra en el paso analizar del proceso de análisis de datos.
+
+- Falso
+
+3. Un centro de jardinería quiere atraer a más clientes. Un analista de datos del departamento de marketing sugiere hacer publicidad en revistas populares de jardinería. ¿Este es un ejemplo de qué práctica?
+
+- Llegar al público objetivo 
+
+4. Un analista de datos trabaja para una compañía eléctrica loca. Recientemente, se contruyeron muchos apartamentos nuevos en la comunidad, por lo que la empresa uqiere determinar cuánt electricidad necesita producir para los nuevos residente en el futuro. Un analista de datos utiliza los datos para ayudar a la empresa a realizar un pronóstico más informado. ¿Este es un ejemplo de qué tipo de problema?
+   
+- Hacer predicciones
+  - Correcto
+    - Este es un ejemplo de ómo hacer predicciones. Hacer predicciones se trata de tomar decisiones informadas sobre cómo pueden ser las cosas en el futuro
+
+5. Describe la diferencia clave entre los tipos de problemas de categorizar cosas e identificar temas.
+
+- categorizar cosas implica asignar elementos a categorías. Identificar temas lleva esas categoriás más allá y las agrupa en temas más amplios.
+
+6. ¿Cuáles de los siguientes ejemplos son pregunta scerradas? Seleeciona todas las opciones correctas.
+
+- ¿Qué calificación obtuviste en el examen de matemáticas?
+- ¿Cuántos años tienes?
+- ¿Matemáticas en tu materia favorita?
+  - Correcto
+    - Las pregutnas cerradas no animan a las personas a desarrollar y compartir detalles valiosos
+
+7. La pregutna  "¿Por qué nuestros empleados no completan sus hojas de horas todos los viernes antes del mediodía?" no está orientada a la acción. ¿Cuáles de las siguientes preguntas están orientadas a la acción y tienen más probabilidades de generar cambios? Selecciona todas las opciones correctas.
+
+- ¿Qué funcionalidades harían que nuestra página web de hojas de horas fuera más fácil de usar?
+- ¿Qué características podríamos agregar a nuestra aplicación de calendario como un recordatorio de la hoja de horas semanal para los empleados?
+
+- ¿Cómo podríamos simplificar el proceso de control de horas de nuestros empleados?
+
+Correcto
+Estas preguntas están orientadas a la acción. Eso significa que es más probable que den como resultado respuestas específicas sobre las que se puede actuar para generar cambios.
+
+8. En un cuestionario de servicio de atención al cliente, un analista de datos pregunta: "Si pudiera ponerse en contacto con nuestro departamento de servicio de atención al cliente a través del chat, ¿cuánto tiempo valioso se ahorraría?" ¿Por qué esta pregunta es injusta?
+
+- Hace suposiciones
+  - Correcto
+    - Un ejemplo común de una pregunta injusta es la que hace suposiciones. Ests son preguntas que suponen la respuesta a la pregunta hecha. 
+
+
+9. ¿Un centro de reciclkaje que patrocina un pódcast sobre como proteger el mdiambiente es un ejemplo de qué estrategia?
+
+- Tratar de llegar al público objetivo
+
+10. El pensamiento estructurado implica reconocer el problema o la situación actuales que enfrentas e identificar tus opciones.
+
+- Verdadero
+  - Correcto 
+    - El pensmiento estrcutruado implica conocer el problemma o la situación actuales que enfrentas e identificar tus opciones.
+
+11. Un analista de datos crea visualizaciones de datos y una presentación de diapositivas. ¿Qué fase del proceso de análisis de datos describe esto?
+
+- Compartir
+  - Correcto  
+    - Esto describe la fase compartir del proceso de análisis de datos.
+
+12.   Hacer predicciones es uno de los seis tipos de problemas de análisis de datos. Se trata del uso de datos para informar decisiones sobre cómo pueden ser las cosas en el futuro. Selecciona el escenario que es un ejemplo de cómo hacer predicciones. 
+
+- Un analista de datos de un minorista de calzado usa los datos como información para el plan de marketing de una próxima venta de verano.
+
+13. La pregunta "¿Cómo podríamos mejorar nuestro sitio web para simplificar el proceso de devolución para los clientes en línea?" está orientada a la acción.
+
+- Verdadero
+  - Correcto
+    - La pregunta "¿Cómo podríamos mejorar nuestro sitio web para simplificar el proceso de devolución para los clientes en línea?" está orientada a la acción porque es probable que dé como resultado respuestas específicas que llevarían a un cambio.
+
+14. ¿Cuáles de las siguientes preguntas hacen suposiciones? Selecciona todas las opciones correctas.
+
+- Debe ser frustrante quedar en espera en el teléfono durante tanto tiempo, ¿verdad?
+- Mantener a los empleados comprometidos es importante, ¿no?
+- ¿No estaría de acuerdo en que el producto A es mejor que el producto B?
+  - Correcto
+    - Un ejemplo común de una pregunta injusta es la que hace suposiciones. Las preguntas injustas suponen la respuesta del encuestado a la pregunta.
+
+
