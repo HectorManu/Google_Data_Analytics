@@ -185,3 +185,17 @@ Para eliminar el formato condicional, haz clicl en Formato y elige Formato condi
 - En una fórmula, el signo más (+) es el operador para la suma, y el guion (-) es el operador para la resta. 
 
 
+## Funciones Básicas
+
+- **Función** Es un comando en específico que realiza automáticamente un proceso
+  - Atajos más utilies
+
+
+### Diferencia entre f´romula y funciones 
+- Una fórmula es un conjunto de instrucciones que se usa para hacer un cálculo usando los datos de una hoja de cálculo.
+- Una función es un comando preestablecido para ejecuta automáticamente un proceso o tarea especódioss meidante sel uso de los datos de una hoja de cálculo. 
+
+### Funciones populares
+
+Muchas personas se dan cuenta de que los atajos de teclado, como cortar, guardar y buscar, son, enen realidad, funcioens. Estas funciones están integradas en una aplicación y ahorran tiempo de una manera incríble. El uso de atajos te permite hacer más trabajo con menos esfuerzo. Pueden hacerte más efiiente y productivo porque no estás buscando el mouse y navegando por los menús e manerea continua. En la siguieten tabla, se muestran algunso delos acesos directos más pupulares 
+
