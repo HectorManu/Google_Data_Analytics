@@ -349,3 +349,51 @@ La comprensión e inclusión del contexto es importante durante cada paso de tu 
 
 - Correcto 
   - Para garantizar que tus datos sean precisos y justos, asegúrate de empezar con una represntación precisa de la población de la muestra; recopilar los datos de forma objetiva y hacer preguntas sobre los datos 
+
+## Desafió semanal 3 
+
+1. En las hojas de cálculo, las fórmulas y las funciones temrinan con un signo igual (=).
+
+- Falso 
+  - Correcto
+    - En las hojas de cálculo,  las fórmulas y las funciones empiezan con un signo igual (=).
+
+2. ¿Con qué propósito se utilizan los atributos en las hojas de cálculo?
+
+- Etiquetar los datos de cada columna
+
+3. ¿Cuál de las siguientes tareas se puede realizar con hojas de cálculo?
+
+- Mantener información sobre las cuentas
+  - Correcto
+    - Se podría usar una hoja de cálculo para mantener informaicón sobre las cuentas.
+
+4. El usuario crea las fórmulas, mientras que las funcioens son comandos preestablecidos en las hojas de cálculo.
+- Verdadero
+  - Correcto
+    - El usuario crea las fórmulas, mienstras que als funciones son comandos prestablecidos en las hojas de cálculo.
+
+5. En la función =MAX(B5:B15), ¿qué representa B5:B15?
+
+- Rango
+  - Correcto
+    - En la función =MAX(B5:B15), B5:B15 representa el rango. Un rango es un conjunto de dos o más celdas.
+
+6. ¿Cuál es la fórmula de hoja de cálculo correcta para multiplicar la celda D5 por la celda D7?
+
+- Correcto
+La fórmula correcta de la hoja de cálculo para multiplicar la celda D5 por la celda D7 es =D5*D7. El asterisco (\*) es el operador para la multiplicación.
+
+7. Completa el espacio en blanco: Al influir negativamente en la recopilación de datos, el _____ puede tener un efecto perjudicial en el análisis.
+
+- Sesgo
+
+8. ¿Cuáles de las siguientes son las formas en que lso analistas de datos pueen agregar contexto a sus datos?
+
+- Correcto
+Para agregar contexto a sus datos, los analistas de datos hacen preguntas sobre los datos, consideran de dónde provienen y usan encabezados de columna descriptivos.
+
+9. Completa el espacio en blanco: Las etiquetas que describen el tipo de datos contenidos en cada columna de una hoja de cálculo se denominan _____.
+
+- Correcto 
+  - Las etiquetas que describen el tipo de datos contenidos en cada columna de una hoja de cálculo se denominan atributos.
