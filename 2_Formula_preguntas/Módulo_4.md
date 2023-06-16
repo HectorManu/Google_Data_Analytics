@@ -106,25 +106,193 @@ Un analista de datos en una empreas de reparto esteá trabajando en un proyecto 
 
 ### La comunicación clara es clave 
 
-### Consejos para una comunicación efectiva 
+1. quién es tu audicneia 
+2. Que tanto sabe la audicneic a
+3. qué necesitan sbaar
+4. cómo podrias comunicarte efectivaente con ellos 
 
-### Escneairo sde datos respuestas
 
-### Cpom oequilibra las expectativas y los objetivos realistas del proyecto 
+
+### Consejos para una comunicación efectiva
+
+Al escribir correos electrónicos a colegas, ¿cuáles d elas siguientes prácticas recomendadas te ayudarán a ser un comunicador eficaz? Selecciona todas las opciones correctas. 
+- Leer el orreo electrónico en voz alta antes de enviarlo para ayudar a detectar errores gramaticales.
+- Usar la línea de asunto para llamar la atención sobre detalles imporntatres, como una próxima fecha límite.
+
+### Esceneairos de datos respuestas
+
+Ser capaz de comunicarse en diversos formatos es una habilidad clave para los analistas de datos. Las habilidades para escuchar, hablar, presentar y escribir te ayudarán a tener éxito en tus proyectos y en tu carrera. Esta lectura incluye estrategias eficaces de comunicación, incluidos ejemplos de correos electrónicos claramente redactados para situaciones habituales.
+
+Aquí te presnetamos un primer consejo imporntate:
+
+**¡Conoce a tu audiencia! Al comunicar tus análisis y recomendaciones como analista de datos, es fundamental tener en cuenta a tu audiencia.**
+
+Asegúrate d eresponder estas cuatro preguntas imporntates reslacionadas ocn tu audiencia: 
+
+1. **¿Quién es tu audiencia?**
+2. **¿Qué saben ya?**
+3. **¿Cómo puedes comunicar mejor lo que necesitan saber?**
+4. **¿Qué necesitan saber?**
+
+#### Ejemplo de proyecto
+
+Como analista de datos, recibirás muchas solicitudes y preguntas por correo electrónico. Veamos un ejemplo de cómo podrías abordar la respuesta a uno de estos correos electrónicos. Supongamos que eres un analista de datos que trabaja en una empresa que desarrolla aplicaciones móviles. Comencemos por revisar las respuestas a las cuatro preguntas de la audiencia que acabamos de incluir:
+
+  **¿Quién es tu audiencia?**
+
+Kiri, gerente de proyectos de Desarrollo de Productos
+
+
+**¿Qué saben ya?**
+
+Kiri recibió actualizaciones sobre nuestro proyecto desde las etapas de planificación, incluido el informe del proyecto más reciente, que se envió hace dos semanas.
+
+**¿Qué necesitan saber?**
+
+Kiri necesita una actualización sobre el progreso del proyecto de análisis y debe confirmar que el equipo ejecutivo aprobó los cambios en los datos y el plazo. Tú sabes que agregar una nueva variable al análisis afectará el plazo actual del proyecto. Kiri tendrá que cambiar los hitos del proyecto y la fecha de finalización.
+
+**¿Cómo puedes comunicar mejor lo que necesitan saber?**
+
+Puedes comenzar por enviar una actualización por correo electrónico a Kiri con el plazo más reciente para el proyecto, pero podría requerirse una reunión si quiere hablar sobre sus inquietudes acerca del cumplimiento de una fecha límite.
+
+##### Ejemplo de correo electrónico sobre la actualización del plazo
+
+Después de responder las preguntas de la audiencia, tienes la base clave que necesitas para escribir un correo electrónico a Kiri. Aquí te mostramos un ejemplo de cómo estas preguntas pueden ayudar a organizar el flujo del mensaje del correo electrónico:
+
+Hola, Kiri: (¿quién es tu audiencia?) 
+
+Gracias por tu correo electrónico sobre el estado del proyecto de análisis de las aplicaciones. Entiendo que te preocupa cómo la incorporación de estos nuevos datos afectará los plazos, y me encantaría proporcionar la mayor cantidad de información que pueda sobre el estado del proyecto. (¿Qué saben ya? ) 
+
+Podemos incluir los nuevos datos que has sugerido; sin embargo, necesitaremos tiempo para recopilarlos e incorporarlos a nuestro análisis. En consecuencia, incluir los nuevos datos tomará dos semanas más, lo que modifica el plazo de nuestro proyecto de análisis. (¿Qué necesitan saber?) 
+
+Pienso enviar un informe completo el lunes. Este informe incluirá el plazo final y compartirá los últimos hallazgos, incluida la información nueva que hayamos descubierto. 
+
+Entiendo que estás a la espera de nuestro informe, y quiero asegurarme de que podamos obtener la información que necesitas. Si deseas reunirte antes del próximo informe, dime qué horario sería más conveniente para ti. (¿Cómo puedes comunicar mejor lo que necesitan saber?) 
+
+Gracias. 
+
+(Tu nombre)
+
+Después de recibir tu correo electrónico, Kiri tendrá una visión más clara de los cambios en el proyecto de análisis y podrá hacer ajustes para trabajar con el nuevo plazo. 
+
+##### Ejemplo de correo electrónico de segumiento del proyecto
+
+Una vez completado el siguiente informe, también puedes enviar una actualización del proyecto para brindar más información. El correo electrónico podría ser así:
+
+Hola, Kiri: 
+
+Se publicó el informe del análisis de la aplicación, y quería que supieras que estamos cumpliendo con todas las fechas límites de nuestro nuevo plazo. 
+
+Adjunto una copia del informe para que puedas ver los resultados. En el informe, se incluye el análisis con nuestros nuevos datos, junto con más detalles sobre los próximos pasos. 
+
+Envíalo a tu equipo y dime si necesitas más información. 
+
+Gracias. 
+
+[Tu nombre]
+
+Una buena comunicación mantiene a los interesados actualizados sobre el progreso y, en última instancia, ayuda a evitar problemas. Las respuestas cuidadosamente redactadas son clave. Ya sea que recopiles y abordes los comentarios por correo electrónico, reuniones o informes, todas las personas con las que trabajes sabrán qué esperar. Como resultado, podrán administrar mejor sus propios horarios, recursos y equipos.
+
+
+
+### Como equilibra las expectativas y los objetivos realistas del proyecto
+
+Al iniciar un nueo proyecto de análisis de datos, establecer las expectativas para un plazo realista podría implicar ¿cuáles de los siguientes aspectos? Selcciona todas las opciones correctas.
+
+- Comunicarse de forma clara con el gerente del proyecto y otros miembros del equipo 
+- Crear un cronograma con las fases del proyecto y sus fechas de inicio aproximadas
+- Compoartir un cronograma del alto nivel con los interesados para que puedan planificar en consecuencia
+
+
+
+
 
 ### Sarah: cómo comunicarse con los interesados
 
+
+
 ### Intercambio de datos: velocidades frente a precisión.
+
+Un analista de datos replantea una pregunta. Luego, se describen el problema, los desafíos, las posibles soluciones y el plazo. Esto se hace para lograr ¿qué objetivos? Selecciona todas las opciones correctas.
+
+- Poner los datos en contexto y descubrir a historia que cuentan
+- Equilibrar la velocidad con la precisión
+- Comunicar las expectativas para que los interesados comprendan cuánto tiempo llevará proporcionar información precisa.
 
 ### Limitaciones de los datos
 
+Los datos son poderosos, pero tienen sus limitaciones. ¿La opinión personal de alguien se ha colado en las cifras? ¿Tus datos cuentan toda la historia? Parte de ser un gran analista de datos consiste en conocer los límites de los datos y planificarlos. Esta lectura explora cómo puedes hacer eso.
+
+**El caso de los datos incompletos (¡o inexistentes!)**
+
+Si tienes datos incompletos o inexistentes, es posible que, durante un análisis, te des cuenta de que no tienes suficientes datos para llegar a una conclusión. ¡O incluso podrías estar resolviendo un problema completamente diferente! Por ejemplo, supongamos que estás buscando empleados que obtuvieron un certificado en particular, pero descubres que los registros de certificación en tu empresa tienen solo dos años de antigüedad. Aún puedes usar los datos, pero deberás aclarar los límites de tu análisis. Es posible que puedas encontrar una fuente alternativa de datos si te comunicas con la empresa que llevó a cabo la capacitación. Pero, para estar seguro, debes ser sincero sobre el conjunto de datos incompleto hasta que esos datos estén disponibles.
+
+**No omitas los datos desalineados**
+
+Si estás recopilando datos de otros equipos y utilizando hojas de cálculo existentes, es bueno tener en cuenta que las personas usan diferentes reglas comerciales. Por lo tanto, un equipo podría definir y medir las cosas de una manera completamente diferente a la de otro. Por ejemplo, si una métrica es la cantidad total de aprendices en un programa de certificación, podrías tener un equipo para que cuente a cada persona que se registró para la capacitación y otro equipo para que cuente solo a las personas que completaron el programa. En casos como estos, establecer cómo medir las cosas desde el principio estandariza los datos en todos los ámbitos para una mayor confiabilidad y precisión. Esto garantizará que las comparaciones entre los equipos sean significativas y perspicaces.
+
+**Gestiona los datos sucios**
+
+Los datos sucios hacen referencia a datos que contienen errores. Estos pueden conducir a la pérdida de productividad, a gastos innecesarios y a una toma de decisiones imprudente. Un buen intento de limpieza de datos puede ayudarte a evitar esto. Como recordatorio rápido, la limpieza de datos es el proceso de corregir o eliminar datos incorrectos, dañados, formateados incorrectamente, duplicados o incompletos dentro de un conjunto de datos. Si encuentras y corriges los errores, mientras realizas un seguimiento de los cambios que hiciste, puedes evitar un desastre con los datos. Aprenderás a limpiar los datos más adelante en la capacitación.
+
+**Cuenta una historia clara**
+
+Avinash Kaushik, un evangelista de marketing digital para Google, tiene muchos consejos excelentes para los analistas de datos en su 
+blog: Occam's Razor
+. A continuación, presentamos algunas de las prácticas recomendadas que sugiere para una buena narración de datos: 
+
+Compara los mismos tipos de datos: al graficarlos para su visualización, los datos pueden confundirse. Asegúrate de comparar los mismos tipos de datos y verifica que los segmentos de tu gráfico muestren definitivamente diferentes métricas. 
+
+Visualiza con cuidado: una caída del 0,01 % en una puntuación puede parecer terrible si te acercas lo suficiente. Para asegurarte de que tu audiencia vea la historia completa con claridad, se recomienda establecer tu eje Y en 0.
+
+Deja de lado los gráficos innecesarios: si una tabla puede mostrar tu historia de un vistazo, elige la tabla en lugar de un gráfico circular o de otro tipo. Tu atareada audiencia apreciará la claridad.
+
+Realiza pruebas para determinar la importancia estadística: en ocasiones, dos conjuntos de datos se verán diferentes, pero necesitarás una forma de probar si la diferencia es real e importante. Así que recuerda realizar pruebas estadísticas para ver cuánto puedes confiar en esa diferencia.
+
+Presta atención al tamaño de la muestra: recopila muchos datos. Si el tamaño de una muestra es pequeño, algunas respuestas inusuales pueden sesgar los resultados. Si descubres que tienes muy pocos datos, ten cuidado de usarlos para elaborar juicios. Busca oportunidades para recopilar más datos, luego grafica esas tendencias durante períodos más largos.
+
+**Sé el juez**
+
+En cualquier organización, una gran parte del papel de un analista de datos consiste en hacer juicios sólidos. Cuando conoces las limitaciones de los datos, puedes discernir y ayudar a las personas a tomar mejores decisiones respaldadas por los datos. Los datos son una herramienta extremadamente poderosa para la toma de decisiones, pero si están incompletos, desalineados o no se han limpiado, entonces pueden ser engañosos. Toma las medidas necesarias para asegurarte de que tus datos estén completos y sean coherentes. Limpia los datos antes de comenzar el análisis para ahorrarte a ti mismo y posiblemente a otros una gran cantidad de tiempo y esfuerzo.
+
 ### Piensa en tu proceso y resultado
 
+
+
 ### Pon a prueba tus conocmientsosobre uan comuncaicón clara.
+
+1. Para comunicarse de forma clara con los interesados y los miembros del equipo, los analistas de datos se hacen cuatro preguntas clave. La primera es la siguiente: ¿Quién es mi audiencia? Identifica las otras tres preguntas. Selecciona todas las opcioens correctas.
+
+- Correcto
+  - Las cuatro preguntas clave que se hacen los analistas de datos cuando se comunican con lso interesados son las siguintes: ¿Quién es mi audiencia? ¿Qué saben ya? ¿Qué necesitan saber? ¿Cómo puedo comunicarme eficazmente con ellos?
+
+2. Un colega te envió una pregunta por correo electrónico hace casi dos días. Sabes que encontrar la respuesta te va a llevar un tiempo porque primero necesitas investigar un poco. Estás demasiado ocupado para hacerlo hoy. ¿Cuál es la mejor forma de proceder?
+
+- Correcto
+  - la mejor forma de proceder es responder con una actualización rápida y dar las gracias al remitente por su paciencia e informarle cuándo es posible que reciba la respuesta a su pregunta
+
+3. Centrarse en las expectativas de los interesados permite a los analistas de datos alcanzar ¿qué objetivos? Selecciona todas las opciones correctas.
+
+- Correcto
+  - centrarse en las expectativas de los interesados permite a los analistas de datos comprender los objetivos del proyecto, mejorar la comunicación y generar confianza.
+
+4. Los interesados han pedido a un analista de datos que elabore muy rápidamente un informe. ¿Cuáles son algunas estrategias que el analista puede aplicar para asegurarse de que su trabajo no sea precipitado, responda a la pregunta correcta y ofrezca resultados útiles? Selecciona todas las opciones correctas. 
+
+- Correcto
+  - para garantizar que su trabajo responda a las preguntas correctas y ofrezca resultados útiles, el analista de datos debe establecer expectativas claras, describir el problema y replantear la pregunta.
+
+5. Hacer preguntas como “¿Mi análisis responde a la pregunta original?” y “¿Hay otros ángulos que no he considerado?” permite a los analistas de datos realizar ¿qué tareas? Selecciona todas las opciones correctas.
+
+- Correcto
+  - hacer preguntas como estas permite a los analistas de datos considerar las mejores formas de compartir datos con otros, ayudar a su equipo a tomar decisiones fundamentadas y utilizar los datos para llegar a una conclusión sólida
+
+
 
 ## Increíble trabajo en equipo 
 
 ### Cómo cumplir con las prácticas recomendadas 
+
+
 
 ### Ximena: cómo unirse a un nuevo equipo 
 
