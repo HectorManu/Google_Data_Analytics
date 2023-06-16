@@ -292,20 +292,171 @@ En cualquier organización, una gran parte del papel de un analista de datos con
 
 ### Cómo cumplir con las prácticas recomendadas 
 
+Al dirigir una reunión, ¿cuáles son algunas formas de asegurarse de que todos los participantes tengan una experiencia positiva? Selecciona todas las opciones correctas.
+- Probar con anticipación las tecnologías que piensas usar para asegurar de que funcionesn correctamente.
+  
+- Preparar notas, una presnetación y una agenda para compartir con loa asistentes.
+- Tomar notas sobre lo que se habla durante la reunión.
 
 
 ### Ximena: cómo unirse a un nuevo equipo 
 
+
+
 ### Cómo liderar grandes reuniones 
 
+Un día no muy lejano, es posible que te encuentres planificando una reunión en tu papel de analista de datos. Cuando los participantes esperan una reunión bien ejecutada, pueden suceder grandes cosas. Los asistentes se presentan a horario. No se distraen con sus computadoras portátiles ni teléfonos. Sienten que su tiempo se empleará bien. Todo se reduce a una buena planificación y comunicación de las expectativas. Los siguientes son nuestros mejores consejos prácticos para dirigir reuniones.
+
+**Antes de la reunión**
+Si estás organizando la reunión, probablemente hablarás sobre los datos. Antes de la reunión: 
+
+Identifica tu objetivo. Establece el propósito, las metas y los resultados deseados de la reunión, incluidas las preguntas o solicitudes que deban abordarse.
+
+Reconoce a los participantes y hazlos participar en los diferentes puntos de vista y experiencias con los datos, el proyecto o el negocio.
+
+Organiza los datos que se presentarán. Es posible que debas convertir datos sin procesar en formatos accesibles o crear visualizaciones de datos. 
+
+Prepara y distribuye una agenda. Repasaremos esto a continuación.
+
+
+**Cómo elaborar una agenda convincente**
+Una agenda de reuniones sólida prepara tu reunión para el éxito. Estas son las partes básicas que debe incluir la agenda: 
+
+Hora de inicio y finalización de la reunión
+
+Lugar de la reunión (incluida la información para participar de forma remota, si esa opción está disponible)
+
+Objetivos 
+
+Material o datos complementarios que los participantes deben revisar de antemano
+
+Aquí presentamos un ejemplo de una agenda para un proyecto de análisis que recién comienza:
+
+
+**Cómo compartir la agenda con anticipación**
+Después de escribir la agenda, es hora de compartirla con los invitados. Compartir la agenda con todos de manera anticipada les ayuda a comprender los objetivos de la reunión y a preparar preguntas, comentarios o retroalimentación. Puedes enviar la agenda por correo electrónico o compartirla mediante otra herramienta de colaboración.
+
+**Durante la reunión**
+Como líder de la reunión, debes guiar el debate sobre los datos. Con todos bien informados sobre el plan y los objetivos de la reunión, puedes seguir estos pasos para evitar distracciones:
+
+Haz introducciones (si es necesario) y revisa los mensajes clave
+
+Presenta los datos 
+
+Habla sobre las observaciones, interpretaciones e implicaciones de los datos
+
+Toma notas durante la reunión
+
+Determina y resume los próximos pasos para el grupo 
+
+
+**Después de la reunión**
+Para mantener el proyecto y a todos alineados, prepara y distribuye un breve resumen de la reunión con los próximos pasos que se acordaron en la reunión. Incluso puedes ir un paso más allá y pedir comentarios al equipo.
+
+Distribuye notas o datos 
+
+Confirma los próximos pasos y el plazo de las medidas adicionales
+
+Pide comentarios (esta es una forma eficaz de averiguar si omitiste algo en tu resumen)
+
+**Conclusión sobre las reuniones**
+
+Incluso con la planificación más cuidadosa y las agendas más detalladas, las reuniones a veces pueden salirse de su curso. Una situación de emergencia podria distraer la atención de las personas. Una decisión reciente podría cambiar inesperadamente los requisitos que se debatieron y acordaron previamente. Es posible que los elemtnos de acción no se apliquen a la situación actual. Si ocurre esto, es posible que te veas obligado a acortar o cancerlar la reunión. Está bien; solo asegúrate de analizar con el gerente o los interesados cualquier cosa que afecte tu proyecto y reprograma la reunión después de contar ocn más información.
+
+
+
 ### Del confllicto a la colaboración 
+
+Para convertir una situación problemática en productiva, los analistas de datos pueden replantear un problema e iniciar una conversación constructiva. ¿Cuáles de las siguientes afirmaciones resultan eficaces para hacer eso? Selecciona todas las opcioens correctas.
+
+- Me gustaría ayudarta a alcanzar tu objetivo. Hablemos sobre cómo ppuedo hacerlo.
+- Me encantairá hacer este proyecto. consideré los paso snecesarios y me volveré a a comunicar pronto tontigo para proporcionarte una estimación de tiempo.
+- Puede haber lagunas otras cosas imporntante que debo considerar. Voy a investigarlo
 
 ### Cómo couniar los datos 
 
 ### Nathan: del cuerpo de Marines de los EE. UU. a análista de datos
 
+
+
 ### Pon a prueba tus conocmientos sobre el trabajo en equipo 
 
+1. Tu supervisor te da un nuevo proyecto de análisis de datos con instrucciones poco claras y tú te frustras al tratar de averiguar cómo proceder. ¿Qué medidas que puedes tomar a continuación demuestran la responsabilidad de hacer avanzar el proyecto? Selecciona todas las opciones correctas.
+- Correcto
+  - Llevar a cabo una investigaión adicional y hacer preguntas son formas eficaces de determinar cómo proceder con un nuevo proyecto.
 
-## DEsafío semanl 4 
+2. Estás trabajando en un proyecto de análisis de datos con un compañero de trabajo y los dos opinan diferente acerca de lo que les dicen los datos. Las cosas se ponen tensas. La mejor forma de proceder es acudir a tu supervisor y explicarle cortésmente que tu compañero de trabajo tiene una visión incorrecta de los datos. Luego, pedirle trabajar con un compañero de trabajo diferente en proyectos futuros.
+
+- Falso
+  - Correcto 
+    - El debate es la clave para la solución de conflictos. Si te encuentras en medio de un conflicto, inicia una conversación para que cada uno pueda explicar sus inquietues y deerminar el mejor camino a seguir.
+
+3. Un director te envía un correo electrónico en el que te solicita un informe antes del fin de semana. Para completar correctamente este tipo de informes, se requiere al menos 10 días. ¿Cuál es la mejor forma de proceder?
+
+- Correcto 
+  - La mejor forma de proceder es enviarle un correlo electrónico al director para explicarle cortésmente el plazo que se requiere para completar el informe de manera correcta.
+
+
+
+## Desafío semanl 4 
+
+
+1. Un equipo de análisis computacional de datos está trabajando en un proyecto para medir el éxito de la nueva estrategia financiera de una empresa. Selecciona a la persona con más probabilidades de ser el interesado principal de este proyecto.
+- El vicepresidente de finanzas
+- Correcto
+  - Es probable que el interesado principal de este proyecto sea el vicepresidente de finanzas, quien puede usar los hallazgos de este proyecto para crear una estrategia eficaz para el futuro. 
+
+2. En un mercado en línea, el _____ incluye a cualquier persona de una organización que interactúe con compradores actuales o potenciales.
+
+- Equipo orientado al cliente
+  - Correcto 
+    - En un mercado en línea, el equipo orientado al cliente incluye a cualquier persona de una organización que interactúe con compradores actuales o potenciales.
+
+3. Para comunicarse de forma clara con los interesados y los miembros del equipo, los analistas de datos se hacen cuatro preguntas clave. Una de ellas es la siguiente: ¿Qué necesita saber mi audiencia? Identifica las otras tres preguntas. Selecciona todas las opciones correctas.
+
+- Las cuatro preguntas clave que se hacen los analistas de datos cuando se comunican con los interesados son las siguientes: ¿Quién es mi audiencia? ¿Qué saben ya? ¿Qué necesitan saber? ¿Cómo puedo comunicarme eficazmente con ellos?
+
+4. Un analista de datos recibe un correo electrónico del vicepresidente de marketing. El vicepresidente está molesto porque el informe que quiere del analista está retrasado. Selecciona la mejor forma de proceder.
+- Correcto
+  - Al responder, el analista debe decir que comprende las inquietudes del vicepresidente, proporcionar una actualización del estado e informarle al vicepresidente cuándo recibirá el informe completo. Esto le demuestra al vicepresidente que se comprenden sus inquietudes y proporciona una actualización del estado.
+
+5. Los analistas de datos prestan atención al tamaño de la muestra para lograr ¿qué objetivos? Selecciona todas las opciones correctas.
+
+- Correcto 
+  - Los analistas de datos prestan atención al tamaño de la muestra para representar un conjunto variado de perspectivas y evitar resultados sesgados o juicios inexactos.
+
+6. Se ha invitado a un analista de datos a una reunión. Este revisa la agenda y observa que uno de los temas que se analizarán es su proyecto de análisis de datos. Planifica llegar a tiempo y tener lápiz y papel para tomar notas. Sin embargo, no dedica tiempo a considerar las actualizaciones del proyecto que podría compartir o las preguntas que se le puedan hacer. Esto es apropiado porque él no es quien dirige la reunión.
+
+- Falso
+  - Correcto 
+    - Incluso si el analista de datos no es quien dirigirá la reunión, si su proyecto está en la agenda, es una buena idea prepararse para compartir las actualizaciones y responder preguntas. Esto ayuda a mantener a todos informados y garantiza una comunicación efectiva.
+
+
+7. Un analista de datos se une a una reunión en línea a horario. Después de revisar la agenda, ve que su proyecto está programado para el final. Está muy ocupado y puede usar este tiempo para dar seguimiento a sus proyectos actuales. ¿Cómo debe proceder?
+
+- Correcto
+  - Debe mantenerse concentrado y atento durante toda la reunión. Escuchar y aprender de los demás son excelentes formas de aprender sobre tu empresa, y sus desafíos y objetivos. 
+
+8. Un miembro del equipo te ha pedido que te hagas cargo de una tarea y tú no comprendes el objetivo del proyecto. Parece que será una pérdida de tiempo. La mejor forma de proceder sería explicar cortésmente tus inquietudes y rechazar el proyecto.
+
+- Falso
+  - Correcto
+    - Cuando no comprendas el contexto completo de una solicitud, haz preguntas sobre el objetivo del proyecto, su historia de datos y el panorama general.
+
+9. Para asegurarse de que algunas respuestas inusuales no sesguen los resultados o den lugar a juicios inexactos, un analista de datos se centra en ¿qué elemento de la recopilación de datos? 
+
+- Tamaño de la muestra
+
+10. El conflicto constituye una parte natural del trabajo en equipo. ¿Cuáles son algunas formas de ayudar a transformar una situación problemática en productiva? Selecciona todas las opciones correctas.
+
+- Correcto
+- Para ayudar a transofmrar una situación problemática en productiva, replantea la pregunta, controla tus emociones y establece líneas abierta de comunicación.
+
+11. Los analistas de datos se centran en la significancia estadística para asegurarse de tener suficientes datos, de modo que algunas respuestas inusuales no sesguen los resultados. 
+
+- Falso
+  
+  
+
+
 
