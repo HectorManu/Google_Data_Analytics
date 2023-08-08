@@ -313,9 +313,19 @@ El modelado de datos puede ayudarte a explorar los detalles de alto nivel de tus
 
 ### Conocer el tipo de datos con el que trabajar
 
+Hasta ahora se ha aprendido mucho acerca de los datos. Desde datos generados, pasando por datos recopilados hast aformato de datos, es bueno saber todo lo posible acerca de los datos utilizarás para el análisis. En este video, hableremos sobre otro modo en que se pueden describir los datos: el tipo de dato. Un tipo de dato es una clase específica de atributo de datos que nos dice qué tipo de valor tiene ese dato. En otras palabras, un tipo de datos te indica con qué clase de datos está trabajando. Los tipos de datos pueden ser diferentes dependiendo del lenguaje de consulta que estás utilizando. Por ejemplo, SQL permite tipos diferentes de datos dependiendo de la base de datos que utilices. Sin embargo, por ahora nos concentraremos en los tipos de datos que utilizarás en las hojas de cálculo. Para ayudarnos, utilizaremos una hoja de cálculo que ya esté completa en los datos. La llamarmeos "interés muncial en los dulces s través d elas búsquedas en Google". Bien, un tipo de dato es una hoja de cálculo puede ser una de tres cosas: un número, un texto o cadena o datos booleanos. Podrán encontrar programas para hojas de cálculo que los clasifica de forma algo diferente o incluye otros tipos, pero esoe tipos de valroes cubren casi todos los datos que encontrarán en una hoja de cálculo. 
+
 ### Entender la lógica booleana
 
+
+
 ### Componentes de la tabla de datos 
+
+cuando se habla de base de datos estructuradas, los analistas de daatos se refieren a los datos contenidos en una fila comoun registro ¿Cómo se refieren a los datos contenidos en una columna.
+- Correcto
+  - Campo
+    - Los analistas de datos se refieren a lso datos contenidos en una columna como un campo.
+
 
 ### Actividad práctica: Aplicación de una función
 
@@ -323,10 +333,172 @@ El modelado de datos puede ayudarte a explorar los detalles de alto nivel de tus
 
 ### Transoformación de datos 
 
+Una mujer presentando datos, una mano sosteniendo una medalla, dos personas charlando, el timón de un barco siendo dirigido, dos personas chocando las manos
+
+En esta lectura, exporarás cómo se transforman los datos y las diferencias entre daots en formato y ancho y largo. La **transformación de datos** es el proceso de cambiar el formato, la estructura o los valores de los datos. Como analista de datos, es muy probable que en algún momento necesites transformar los datos para que te resulte más fácil analizarlos.
+
+La transformación de daos eul implicar: 
+- Añadir, copiar o replicar datos
+- Eliminar campos o registros
+- Estandarizar los nombres d elas variables
+- Cambiar el nombre, mover o combinar columnas en una base de datos
+- Unir un conjunto de datos ocn otro 
+- Guardar un archivo en un formato diferente. Por ejemplo, guardar una hoja de cálculo como un archivo de valroes serparados por comas (CSV).
+
+#### ¿Por qué transformar los datos?
+
+Los objetivos de la transformación de datos pueden ser:
+
+* **Organización** de los datos: los datos mejor organizados son más fáciles de utilizar
+* **Compatibiliad** de datos: diferentes aplicaciones o sistemas pueden entonces utilizar los mismos datos
+* **Migración** de datos: los datos ocn formatos coincidentes pueden trasladarse de un sistema a otro 
+* **Fusión** de datos: los datos con la misma organización pueden fusionarse
+* **Mejora** de datos: los datos pueden mostrarse con campos más detallados
+* **Comparación** de datos: a continuación, se pueden realizar comparaciones d elso datos entre sí
+
+#### Ejemplo de transformación de datos: fusión de datos
+
+Mario es un fontanero propietario de una empresa fontanería. Tras años en el negocio, compra otra empresa de fontanería. Mario quiere fusionar la información de los clientes de su nueva empresa con la suya, pero la otra empresa utiliza una base de datos diferente. Así que Mario tiene que hacer que los datos sean compatibles. Para ello, tiene que transformar el formato de los datos de la empresa adquirida. Luego, debe eliminar las filas duplicadas de los clientes que tenían en común. Cuando los datos sea compatibles y estén juntos, la empresa de fontanería de Mari otendrá una base de datos de clientes completa y fusionada.
+
+#### Ejemplo de trasnformación de datos: organización de datos (largo a ancho)
+
+Para facilitar la creación de gráficos, tabién pueden ser necesario transformar los datos en formato largo en datos en formato ancho. Considera el siguiente ejemplo de datos en formato largo que aparece a continuación, se han recogido los precios individuales de las acciones (puntos de datos) de Appel (AAPL), Amazon (AMZN) y Google (GOOGL) (elementos concretos) en las fechas indicadas 
+
+##### Ejemplo de datos en formato largo: Precio de las acciones
+
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/dq8jjvDiQgmvI47w4hIJsA_ffb38f9200364ce7862d8848c8147a19_Screen-Shot-2020-11-24-at-5.42.01-PM.png?expiry=1688601600000&hmac=ah9INqyLeqXgwCWOqXeT8AUmXUzrdGlWTcvRW5ou5xE)
+
+Los **datos en formato ancho** son datos en los que **cada fila contiene múltiples puntos de datos** para los elementos particulares identificados en las columnas.
+
+##### Ejemplo de datos en formato ancho: Precio de las acciones
+
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/5IiB_OOFR_eIgfzjhVf3VA_5066f31f0192481980d15830caf61b8e_Screen-Shot-2021-03-17-at-3.00.51-PM.png?expiry=1688601600000&hmac=KFVllZxKNkeCmggqoUZZZeyZClv7X43JYeRgGxSIxqA)
+
+Con los datos transformados en datos en formato ancho, puedes crear un gráfico en el que se compara la evolución de las acciones de cada empresa en el mismo periodo de tiempo.
+
+Puedes notar que todos los datos incluidos en el formato largo están también en formato ancho. Pero los daos en el formato ancho son más fáciles de leer y comprender. Por eso, olos analistas de datos suelen transforamr los datos en formato largo en datos en formato ancho con más frecuencia que al revés. La siguietne tabla resume cuándo se prefiere cada formato.
+
+**Se prefieren los datos en formato ancho cuando** | **Se prefieren los datos en formato largo cuando**
+Se crearn tabhas y gráficos con pocas variables sobre cada tema | Se almacena muchas variables sobre cada tema: Por ejemplo, 60 años de tasas de intereés para cada banco
+Se comparan gráficos lineales sencillos | Se realizan análisis esetadísticos avanzados o gráficos
+
+
 ### Actividad práctica: Introducción a Kaggle
 
 ### Pon a prueba tus conocimientos sobre tipos de datos, campos y valores
 
+1. Completa el espacio en blanco: Los motores de búsqueda de internet son un ejemplko cotidiano de cómo se utilizan los operadores booleanos. El operdaor booleano ______ amplía el número de resultados cuando se utiliza en una búsqueda de palabra clave.
+
+O
+
+Correcto El operador booleano O amplía el número de resultados cuano se utiliz aen una búsqueda de palabras clave
+
+2. ¿Cuál de las siguientes afirmaciones describe con exactitud una diferencia clave entre los datos en formato ancho y largo?
+
+- Los sujetos de datos en formato ancho pueden tener datos en múltiples columnas. Los sujetos de datos en formato largo pueden tener múltiples filas que contiene los valroes de los atributos de sujeto.
+
+- Correcto
+
+3. ¿ Qué permite la transformación de datos a los analistas de datos?
+
+Cambiar la estructura de los datos
+
+- Correcto la transofmracion de datos permite a los analistas de datos cambia la estructura de lso datos 
+
+
+
 ## Desafío semanal 1 
+
+
+Hata el momento, has aprendido mucho sobre diferentes tipos de datos y estructuras de datos. En esta actividad trabajarás con conjuntos de datos de kaggle, una comunidad en línea de personas apasionadar por los datos. Para comenzar esta actividad, crecrás una cuenta de Kaggle, configurarás un perfil y explorarás los blocs de notas de Kaggle.
+Todos los analistas de datos tienen una comunidad de datos en la que confían para obtener ayuda, apoyo e inspiración. Kaggle puede ayudarte a constuir tu propia comunidad de datos. 
+
+Kaggle tiene millones de usuario sen todas las etapas de su carrera de datos, desde principiantes hasta científicos de datos con décadas de experiencia. La cominidad de Kaggle reúne a la gente para desarrollar sus habildiades de análisis de datos, compartir conjunt0os de datos y blocs de notas interactivos, y colaborar en la resolución de problemas de datos de la vida real. 
+
+Mirá este [breve video introductorio](https://) para saber más sobre Kaggle.
+
+Al finalizar esta actividad, serás capaz de utilizar muchas de las características clave de Kaggle. Esto te permitirá crear blocs de notas y navegar por los datos, lo cual es imporntante para completar y compartir proyectos de datos en tu carrera como analista de datos. 
+
+**Crear una cuenta de Kaggle**
+
+
+
+
+1. Un analista de datos de una editorial de libros está trabajnado en un informa urgente para los ejecutivos. Están utilizando solo datos hitóricos. ¿Cuál es la razón más probable para elegir analizar solo datos hitóricos?
+
+- El proyecto tiene un plazo muy corto
+
+2. ¿cuál de los siguientes es un ejemplo de datos continuos?
+
+duración de una pelicula
+
+3. ¿Cuáles de las siguiente pregunta recogen datos cualitativos nominales?
+
+- ¿Es a primera vez que cenas en este restaurante?
+
+4. ¿Por qué los datos internos se consideran más confiables y fáciles de recopilar que los datos externos?
+
+- los datos internos están alojados dentro de los propios sistemas de la empresa. 
+
+5. ¿Cuál de los siguiente es un ejemplo de datos estructurados?
+
+- Base de datos relacional
+
+6. Completa el espacio en blanco: Un tipo de dato booleano puede tener _____ valores posibles.
+
+Dos
+
+7. La siguiente es una selección de una hoja de cálculo 
+
+Nombre | Edad   | Ocupación 
+--- | --- | ---
+agnes | 44 | Empresaria
+Ronaldo vicent | 23 | Contador
+Henry sing | 36 | Editor
+krishna Bowling | 62 | Diseñadora gráfica 
+
+¿Qué tipo de formato de datos contiene?
+
+largo - Incorrecto 
+
+entonces es ancho - Incorrecto 
+
+Corto entonces?
+
+8. Un analista de datos está trabajndo en una aplicación de hoja de cálculo. Utiliza Guadar como para cambiar el tipo de archivo .XLS a .CSV. Este es un ejemplo de transformación de datos.
+
+- Verdadero
+
+9. Un analista de datos está trabajando en un estudio de tráfico urgente. como consecuencia del corto plazo, ¿qué tipo de datos es más probable que utilice?
+
+- Históricos
+
+10. ¿Cuáles de los siguiente son ejemplos de datos discretos? Selecciona todas las opciones que correspondan. 
+
+Número de actores en la película
+
+11. ¿Cuáles de las siguiente pregutnas recogen datos cualitativos nominales? Selecciona todas las opcinoes que correspondan:
+
+¿Alguien te ha recomendado hoy nuestro restaurante?
+
+¿ Haz oído hablar de nuestro programa de comensales frecutnes?
+
+¿Es la primera vez que cenas en este restaurante?
+
+12. Los datos internos son más confiables por que están depurados.
+
+- Falso
+
+13. ¿Cuál de los siguientes es un ejemplo de datos booleanos? Selecciona todas las opcioens que correspondan 
+
+Verdadero falso
+si o no 
+
+14. en los datos de formato largo, las columnas separadas contiene los valroes y el contexto de los valroes, respectivamente. ¿qué contiene cada columna en los datos en formato largo?
+
+- Una variable ded datos única
+
+- Correcto en lso datos en formato ancho, cada columna contiene una variable de datos única. En los datos en formato largo, las columnas separadas contiene los valroes y el contexto de los valreos respectivamente.
+
 
 
